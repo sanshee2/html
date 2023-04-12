@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body {
+	box-sizing: border-box;
+	height: 100vh;
+	background-color: black;
+	color: #008000;
+	font-family: Nine by Five, sans-serif;
+	 }	
+
+.titulo-destaque	 {
+	color: #A4BC92; 
+	}
+h1{
+    font-weight: bold;
+}
+
+span{
+	color: #008000;
+    border: 1px solid #008800;
+    padding: 10px;
+}
+
+.apresentacao{
+	display: flex;
+	align-items: center;
+}
