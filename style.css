@@ -120,4 +120,7 @@ h1{
 	.apresentacao__conteudo{
 		width: auto;
 	}
+	.apresentacao__conteudo__titulo{
+		font-size: 2rem;
+	}
 }
